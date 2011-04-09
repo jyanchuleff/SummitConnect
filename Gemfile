@@ -18,3 +18,7 @@ gem 'mocha', :group => :test
 gem 'devise'
 gem 'cancan'
 gem 'oa-oauth', :require => 'omniauth/oauth'
+
+#Deploy
+
+gem 'heroku'
